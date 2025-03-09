@@ -22,3 +22,13 @@ This is the backend API for the Todo Note-Taking Application. It provides RESTfu
 ```sh
 git clone https://github.com/yourusername/todo-backend.git
 cd todo-backend
+
+npm install
+
+Create a .env file in the root directory and add:
+
+PORT=5000
+
+MONGO_URI=***
+
+npm start

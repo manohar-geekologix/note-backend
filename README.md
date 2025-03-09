@@ -26,9 +26,7 @@ cd todo-backend
 npm install
 
 Create a .env file in the root directory and add:
-
 PORT=5000
-
 MONGO_URI=***
 
 npm start
